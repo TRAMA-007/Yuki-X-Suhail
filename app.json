@@ -2,14 +2,14 @@
   "name": "suhail-md@1.3.9",
   "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
   "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "keywords": ["يوكي", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+  "success_url": "/تراما/",
   "app_url": "/qr/",
   "stack":"container",
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "Tramazool",
       "required" :true
     },   
      
@@ -21,7 +21,7 @@
      
     "CAN_GOODBYE": {
       "description": "put 'false' or 'true' to enable & disable GOODBYE ",
-      "value": "false",
+      "value": "true",
       "required" :false
     },
     "BOT_NAME": {
